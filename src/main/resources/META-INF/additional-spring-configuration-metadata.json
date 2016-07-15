@@ -1,0 +1,72 @@
+{"properties": [
+  {
+    "name": "endpoints.cors.allow-credentials",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints.cors.allow-credentials'"
+  },
+  {
+    "name": "endpoints.cors.allowed-headers",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints.cors.allowed-headers'"
+  },
+  {
+    "name": "endpoints.cors.allowed-methods",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints.cors.allowed-methods'"
+  },
+  {
+    "name": "endpoints.cors.allowed-origins",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints.cors.allowed-origins'"
+  },
+  {
+    "name": "endpoints.cors.exposed-headers",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints.cors.exposed-headers'"
+  },
+  {
+    "name": "endpoints.cors.max-age",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints.cors.max-age'"
+  },
+  {
+    "name": "sftp.hostname",
+    "type": "java.lang.String",
+    "description": "A description for 'sftp.hostname'"
+  },
+  {
+    "name": "sftp.login",
+    "type": "java.lang.String",
+    "description": "A description for 'sftp.login'"
+  },
+  {
+    "name": "sftp.password",
+    "type": "java.lang.String",
+    "description": "A description for 'sftp.password'"
+  },
+  {
+    "name": "sftp.sftpdirectory",
+    "type": "java.lang.String",
+    "description": "A description for 'sftp.sftpdirectory'"
+  },
+  {
+    "name": "sftp.localdirectory",
+    "type": "java.lang.String",
+    "description": "A description for 'sftp.localdirectory'"
+  },
+  {
+    "name": "load.jdbc.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'load.jdbc.uri'"
+  },
+  {
+    "name": "load.jdbc.user",
+    "type": "java.lang.String",
+    "description": "A description for 'load.jdbc.user'"
+  },
+  {
+    "name": "load.jdbc.password",
+    "type": "java.lang.String",
+    "description": "A description for 'load.jdbc.password'"
+  }
+]}

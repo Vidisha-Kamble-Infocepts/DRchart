@@ -1,0 +1,5 @@
+---
+applications:
+  - name: crotonville-services-dr
+    buildpack: java_buildpack
+    path: target/crotonville-services-1.0.jar

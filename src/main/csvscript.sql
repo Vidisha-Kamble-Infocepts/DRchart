@@ -1,0 +1,1 @@
+ COPY test("a","b") FROM 'tempdata.csv' WITH DELIMITER ',' CSV HEADER;
